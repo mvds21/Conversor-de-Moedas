@@ -1,6 +1,6 @@
 # Conversor-de-Moedas
 
-# 💱 Conversor de Moedas com Gráfico Histórico (Currency Converter with Historical Chart)
+# 💱 Conversor de Moedas (Currency Converter)
 
 Este é um aplicativo web construído com Streamlit que permite aos usuários converter valores entre diferentes moedas e visualizar o histórico da taxa de câmbio entre duas moedas selecionadas.
 
