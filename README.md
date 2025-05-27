@@ -88,14 +88,13 @@ O aplicativo deverá abrir automaticamente no seu navegador padrão.
 
 ## 🖼️ Screenshots (Screenshots)
 
-*(Adicione aqui screenshots da sua aplicação. Por exemplo:*
+![image](https://github.com/user-attachments/assets/f4004795-4d07-44e1-9ffa-23e8f6623efa)
+![image](https://github.com/user-attachments/assets/cdbf0f94-ff5c-4bc7-9736-7bf3cd6da483)
+
+
 
 *Tela Principal:*
-`![Tela Principal](link_para_sua_imagem_tela_principal.png)`
-
-*Gráfico Histórico (se implementado):*
-`![Gráfico Histórico](link_para_sua_imagem_grafico.png)`
-*)*
+![image](https://github.com/user-attachments/assets/e7be4b36-0f35-4694-aa06-60d48b44d86a)
 
 ## 🔮 Possíveis Melhorias Futuras (Potential Future Improvements)
 
